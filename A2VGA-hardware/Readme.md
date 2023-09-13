@@ -1,3 +1,5 @@
+### A2VGA
+
 This project is a new hardware implementation of the work done by Mark Aikens and David kuder on the VGA analog card for Apple2.
 
 The card is based on RPI Pico, 4x 74LVC245 chips and a PLD. It is all through-hole. An improvement is that an ATF22V10 is used, which has sufficient I/O lines to allow that 11 all necessaty bits of the address (A0-A10) are decoded for correct switching off of the ExtROM, in case the RPI firmware is using this memory.
