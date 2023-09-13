@@ -1,7 +1,9 @@
 MIT License
 
 Copyright (c) 2023 Ralle Palaveev
+
 Copyright (c) 2022-2023 David Kuder
+
 Copyright (c) 2021-2022 Mark Aikens
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
