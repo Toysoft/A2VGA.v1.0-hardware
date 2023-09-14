@@ -11,7 +11,7 @@ Device    g22V10;
 /****************************************************************/
 /*                                                              */
 /* Apple II Pi Pico Address Logic                               */
-/* Original device used by David Kuder is g16v10                */
+/* Original device used by David Kuder is g16v8                 */
 /* Ported by Ralle Palaveev to g22v10                           */
 /*                                                              */
 /****************************************************************/
