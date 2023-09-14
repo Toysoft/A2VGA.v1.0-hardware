@@ -36,6 +36,7 @@ PIN [18..21]      = [BSEL3..0];   /* Buffer Mode Select         */
 /**  Outputs  **/
 
 PIN 15          = !CARDSELECT;  /* Card Select                 **/
+
 /** Pins 14 and 15 are to be shorted if no PAL is used         **/
 
 /**  Logic Overflow  **/
